@@ -782,7 +782,7 @@
     (property "Value" "C" (id 1) (at 144.78 115.5699 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0201_0603Metric" (id 2) (at 141.9352 118.11 0)
+    (property "Footprint" "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (id 2) (at 141.9352 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 140.97 114.3 0)
@@ -963,7 +963,7 @@
     (property "Value" "10uF" (id 1) (at 137.16 115.5699 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0201_0603Metric" (id 2) (at 134.3152 118.11 0)
+    (property "Footprint" "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (id 2) (at 134.3152 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 133.35 114.3 0)
@@ -1023,10 +1023,10 @@
       (reference "#PWR0105") (unit 1) (value "GND") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
     )
     (path "/ef512daf-7016-46e6-99c3-08a02ff7c08d"
-      (reference "C1") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0201_0603Metric")
+      (reference "C1") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
     )
     (path "/02081930-6e86-4811-8698-f6e99d4123ec"
-      (reference "C2") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0201_0603Metric")
+      (reference "C2") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
     )
     (path "/7b6b03a5-8cbc-4c4e-94f5-373fae96cd8a"
       (reference "J1") (unit 1) (value "SMA-J-P-X-RA-TH1") (footprint "components:SAMTEC_SMA-J-P-X-RA-TH1")
