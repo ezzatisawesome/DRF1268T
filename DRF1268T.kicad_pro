@@ -380,14 +380,6 @@
         "name": "Data",
         "nets": [
           "Net-(J1-Pad1)",
-          "Net-(J2-Pad1)",
-          "Net-(J2-Pad2)",
-          "Net-(J2-Pad3)",
-          "Net-(J2-Pad4)",
-          "Net-(J2-Pad5)",
-          "Net-(J2-Pad6)",
-          "Net-(J2-Pad7)",
-          "Net-(J2-Pad8)",
           "unconnected-(R1-Pad6)"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
