@@ -31,4 +31,9 @@
   (pad "14" smd roundrect (at 13.255 -10.55) (size 1.49 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp bfc4ae81-b076-47ef-a6bb-9bac5997473a))
   (pad "15" smd roundrect (at 13.255 -12.35) (size 1.49 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 1cc02fcb-56b9-4b57-aa63-c5dc516fc15e))
   (pad "16" smd roundrect (at 13.255 -14.15) (size 1.49 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 97757903-0cbf-49ea-a281-14532b61f40a))
+  (model "/Users/ezzatsuhaime/Documents/DRF1268T/models/DRF1268T.step"
+    (offset (xyz 7 8 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

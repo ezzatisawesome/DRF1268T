@@ -36,7 +36,7 @@
   (pad "3" thru_hole circle (at 2.54 -2.54) (size 2.4 2.4) (drill 1.6) (layers *.Cu *.Mask) (tstamp 155d7345-b489-41b4-9101-85b88581407f))
   (pad "4" thru_hole circle (at -2.54 -2.54) (size 2.4 2.4) (drill 1.6) (layers *.Cu *.Mask) (tstamp ac5c2740-8e8c-4c9c-bf34-19c0c2eec5dd))
   (pad "5" thru_hole circle (at -2.54 2.54) (size 2.4 2.4) (drill 1.6) (layers *.Cu *.Mask) (tstamp f03bde9d-1e26-42ea-8e4d-974670d0b988))
-  (model "/Users/ezzatsuhaime/Downloads/SMA-J-P-X-RA-TH1/SMA-J-P-X-RA-TH1.step"
+  (model "/Users/ezzatsuhaime/Documents/DRF1268T/models/SMA-J-P-X-RA-TH1.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 90))
